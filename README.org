@@ -4,6 +4,6 @@ An implementation of the action list data structure
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/shinmera/action-list.git |
-| commit  | 09b70df                                         |
+| commit  | f9dec57                                         |
 | systems | action-list                                     |
 |---------+-------------------------------------------------|
