@@ -3,7 +3,7 @@
 An implementation of the action list data structure
 
 |---------+-------------------------------------------------|
-| source  | git:https://github.com/shinmera/action-list.git |
-| commit  | f9dec57                                         |
+| source  | git:https://codeberg.org/shinmera/action-list.git |
+| commit  | 0000000                                         |
 | systems | action-list                                     |
 |---------+-------------------------------------------------|
