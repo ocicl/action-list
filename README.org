@@ -6,4 +6,4 @@ An implementation of the action list data structure
 | source  | git:https://codeberg.org/shinmera/action-list.git |
 | commit  | f4c9909                                         |
 | systems | action-list                                     |
-|---------+-------------------------------------------------|
+|---------+-------------------------------------------------| 
